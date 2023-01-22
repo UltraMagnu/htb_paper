@@ -1,0 +1,13 @@
+type: {vbd}
+user-name: {ultramagnus}
+stage: {inmersion}
+dicovered-vulnerabilities: CVE-2018-20685, CVE-2019-0215,  EyesOfNetwork 5.3
+  by-me: {3}
+  in-repo: {0}
+  total: {3}
+estimated-vulnerabilities: {00:40:16}
+discovery-percentage: {100%}
+total-time: {00:40:16}
+effort: {easy}
+date: {12/29/2022}
+path: {solution-path}
